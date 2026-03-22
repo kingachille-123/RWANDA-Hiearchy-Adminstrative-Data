@@ -29,21 +29,31 @@ public class Program
         // Now you can use adminData to populate your cascading dropdowns
     }
 }
-```Make sure to replace `"path_to_your_json_file.json"` with the actual path to your .json file in your project. This code snippet demonstrates how to read and parse the .json file into a list of `AdministrativeData` objects, which you can then use to populate your cascading dropdowns in your application.
+
+Make sure to replace `"path_to_your_json_file.json"` with the actual path to your .json file in your project. This code snippet demonstrates how to read and parse the .json file into a list of `AdministrativeData` objects, which you can then use to populate your cascading dropdowns in your application.
+```
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
 ## Contributing
+
 Contributions are welcome! If you have any improvements or additions to the data, please feel free to submit a pull request or open an issue for discussion.
+
 ## Contact
+
 If you have any questions or need further assistance, please feel free to contact the repository owner or open an issue in the repository.
+
 ## Acknowledgments
+
 - Special thanks to the developers who have used this data in their projects and provided feedback for improvements
 - Thanks to the open-source community for providing tools and libraries that make working with JSON data easier in C#.
+
 ## Disclaimer
+
 This data is provided "as is" without any warranties or guarantees. The accuracy and completeness of the data cannot be guaranteed, and the repository owner is not responsible for any issues that may arise from using this data in your projects. Always verify the data and use it at your own risk.
 
 
 Developed by AKUZWE Aine Achille - [GitHub](kingachille-123) - [LinkedIn](https://www.linkedin.com/in/akuzwe-aine-achille-9a1b4b1b2/)
 
 
-developed with ❤️ in Rwanda
+##developed with ❤️ in Rwanda
